@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\mamba_project.props" />
+</Project>
